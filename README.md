@@ -33,9 +33,9 @@ It takes the sample from each channel per revolution and rotates at the rate of 
 
 ### Tabulation
 
-<img width="672" height="448" alt="image" src="https://github.com/user-attachments/assets/05600b28-ba54-4cd4-9ff4-f088865e85ae" />
+<img width="1034" height="1241" alt="image" src="https://github.com/user-attachments/assets/f5dc3c5a-94e0-4e71-a974-a14292de5f97" />
 
 ### Result
-
+Thus , the Frequency division multiplexing is done experimentally and output is verified.
 
 
